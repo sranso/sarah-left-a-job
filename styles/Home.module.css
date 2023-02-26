@@ -1,11 +1,9 @@
 .container {
   min-height: 100vh;
-  padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   position: relative;
-  /* align-items: center; */
 }
 
 .title {
@@ -14,6 +12,25 @@
   font-size: 8.6rem;
   color: white;
   text-transform: uppercase;
+  max-width: 80vw;
+  margin: 0 auto;
+}
+
+.hero {
+  background-image: url("/2022-07.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 80vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+}
+
+.celebrate {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
 }
 
 .title,

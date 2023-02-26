@@ -13,7 +13,22 @@ export default function Home() {
       <Header />
 
       <main>
-        <h1 className={styles.title}>Sarah got a job!</h1>
+        <div className={styles.hero}>
+          <h1 className={styles.title}>Sarah got a job!</h1>
+        </div>
+        <div className={styles.celebrate}>
+          <div>Come celebrate with her</div>
+          <div>
+            Details:
+            <br />
+            What:
+            <br />
+            When:
+            <br />
+            Where:
+            <br />
+          </div>
+        </div>
       </main>
 
       <footer>
@@ -28,16 +43,10 @@ export default function Home() {
 
       <style jsx>{`
         main {
-          padding: 5rem 0;
           flex: 1;
           display: flex;
           flex-direction: column;
-          justify-content: center;
           align-items: center;
-          background-image: url("/2022-07.jpeg");
-          background-size: cover;
-          background-repeat: no-repeat;
-          background-position: center;
         }
         footer {
           width: 100%;

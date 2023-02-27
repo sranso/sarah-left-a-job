@@ -6,47 +6,5 @@
   position: relative;
 }
 
-.title {
-  margin: 0 0 1rem;
-  line-height: 1.15;
-  font-size: 8.6rem;
-  color: white;
-  text-transform: uppercase;
-  max-width: 80vw;
-  margin: 0 auto;
-}
-
-.hero {
-  background-image: url("/2022-07.jpeg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
-  height: 80vh;
-  max-height: 80vh;
-  width: 100vw;
-  display: flex;
-  align-items: center;
-  transition: 1s ease;
-}
-
-/* .hero:hover{
-  -webkit-transform: skew(30deg, 20deg) scale3d(2.5, 1.2, 0.3) perspective(17px) rotate3d(1, 2, 3, 10deg);
-  -ms-transform: skew(30deg, 20deg) scale3d(2.5, 1.2, 0.3) perspective(17px) rotate3d(1, 2, 3, 10deg);
-  transform: skew(30deg, 20deg) scale3d(2.5, 1.2, 0.3) perspective(17px) rotate3d(1, 2, 3, 10deg);
-  filter: blur(8px);
-  -webkit-filter: blur(8px);
-  transition: 5s ease;
-} */
-
-.title,
-.description {
-  text-align: center;
-}
-
-.description {
-  line-height: 1.5;
-  font-size: 1.5rem;
-}
-
 @media (max-width: 600px) {
 }

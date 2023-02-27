@@ -1,6 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import Header from "./header.js";
+import Hero from "./hero.js";
 import FAQs from "./faqs.js";
 import Data from "./data.js";
 import Celebrate from "./celebrate.js";
@@ -32,9 +33,7 @@ export default function Home() {
       <Header />
 
       <main>
-        <div className={styles.hero}>
-          <h1 className={styles.title}>Sarah got a job!</h1>
-        </div>
+        <Hero />
         <Celebrate />
         <FAQs />
         <Data />

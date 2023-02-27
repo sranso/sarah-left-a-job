@@ -2,3 +2,12 @@
   width: 80vw;
   margin: 3rem auto;
 }
+
+.dataContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.dataset {
+  flex: 50%;
+}

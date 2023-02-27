@@ -8,12 +8,12 @@ https://sarah-got-a-job.vercel.app/
 # Todos
 
 - add data viz
+  - places lived in last year
   - people i cried to the most
-  - scones eaten
   - days silent
   - rejections: art jobs romantic
-  - places lived in last year
   - pace of interviews
+  - scones eaten
 - autoplay not allowed anymore, so tbd on if we should add <audio src="/Goo_Goo_Dolls_Iris.mp3" controls autoPlay />
 - point job.sarahransohoff.com to https://sarah-got-a-job.vercel.app/ ?
 - add fun wavy effect to image

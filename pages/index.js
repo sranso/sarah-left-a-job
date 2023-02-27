@@ -23,7 +23,7 @@ export default function Home() {
           key="fonts-google-static"
         />
         <link
-          href="https://fonts.googleapis.com/css2?Noto+Serif+JP:wght@400;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700&display=swap"
           rel="stylesheet"
           key="fonts-google-noto-serif"
         ></link>

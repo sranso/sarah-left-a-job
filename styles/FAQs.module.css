@@ -1,8 +1,6 @@
 .container {
   width: 80vw;
   margin: 3rem auto;
-  justify-content: space-around;
-  align-items: center;
 }
 
 .q {

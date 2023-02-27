@@ -1,10 +1,10 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
-import Header from "../components/header.js";
-import Hero from "../components/hero.js";
-import FAQs from "../components/faqs.js";
-import Data from "../components/data.js";
-import Celebrate from "../components/celebrate.js";
+import Header from "../components/Header.js";
+import Hero from "../components/Hero.js";
+import FAQs from "../components/FAQs.js";
+import Data from "../components/Data.js";
+import Celebrate from "../components/Celebrate.js";
 
 export default function Home() {
   return (

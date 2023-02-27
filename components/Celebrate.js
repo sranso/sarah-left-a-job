@@ -1,4 +1,4 @@
-import styles from "../styles/celebrate.module.css";
+import styles from "../styles/Celebrate.module.css";
 
 export default function Celebrate() {
   return (

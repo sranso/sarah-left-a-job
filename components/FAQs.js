@@ -1,4 +1,4 @@
-import styles from "../styles/faqs.module.css";
+import styles from "../styles/FAQs.module.css";
 
 export default function FAQs() {
   return (

@@ -1,8 +1,14 @@
 .container {
-  display: flex;
-  width: 100%;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
+  width: 80vw;
+  margin: 3rem auto;
   justify-content: space-around;
   align-items: center;
+}
+
+.q {
+  margin-bottom: 1rem;
+}
+
+.list a {
+  text-decoration: underline;
 }

@@ -67,4 +67,9 @@ footer a {
   align-items: center;
   text-decoration: none;
   color: inherit;
+  transition: .2s ease;
+}
+
+footer a:hover {
+  color: aquamarine;
 }

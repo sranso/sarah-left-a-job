@@ -7,6 +7,10 @@
   align-items: center;
 }
 
+.container p:last-child {
+  margin: 0;
+}
+
 .CTA {
   font-size: 3.8rem;
   max-width: 34vw;

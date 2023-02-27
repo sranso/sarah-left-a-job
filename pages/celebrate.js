@@ -14,6 +14,8 @@ export default function Celebrate() {
           <br />
           Where: Kate and Kiron's house (have to ask them first).
           <br />
+        </p>
+        <p>
           <a href="https://partiful.com/e/nnwczbP8zPAT6BcsL7e6" target="_blank">
             RSVP
           </a>

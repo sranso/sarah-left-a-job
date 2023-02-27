@@ -1,5 +1,6 @@
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
 import { Pie } from "react-chartjs-2";
+import styles from "../../styles/Data.module.css";
 
 ChartJS.register(ArcElement, Tooltip, Legend);
 
@@ -38,5 +39,18 @@ const data = {
 };
 
 export default function PlacesLived() {
-  return <Pie data={data} />;
+  return (
+    <div className={styles.dataset}>
+      <p>
+        <strong>Places lived since Jan 2022</strong>
+      </p>
+      <Pie
+        options={{
+          maintainAspectRatio: false,
+          responsive: true,
+        }}
+        data={data}
+      />
+    </div>
+  );
 }

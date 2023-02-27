@@ -7,15 +7,12 @@ https://sarah-got-a-job.vercel.app/
 
 # Todos
 
-- add data viz
-  - places lived in last year
-  - people i cried to the most
-  - days silent
-  - rejections: art jobs romantic
-  - pace of interviews
-  - scones eaten
-- autoplay not allowed anymore, so tbd on if we should add <audio src="/Goo_Goo_Dolls_Iris.mp3" controls autoPlay />
-- point job.sarahransohoff.com to https://sarah-got-a-job.vercel.app/ ?
 - add fun wavy effect to image
+- add registry
 - make emojis fall when hovering on top left party (change that emoji?)
 - make video interviews with friends -- kate, kiron, nancy, seth, mike, robin, dabney, angelica, sarah s, nan, a scone
+
+- add data viz
+  - days silent
+  - scones eaten
+- point job.sarahransohoff.com to https://sarah-got-a-job.vercel.app/ ?

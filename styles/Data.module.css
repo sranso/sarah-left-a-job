@@ -1,10 +1,14 @@
 .container {
   width: 80vw;
-  margin: 3rem auto;
+  margin: 3rem auto 8rem;
 }
 
 .dataset {
   max-width: 80vw;
-  max-height: 80vh;
-  margin: 0 auto 6rem
+  height: 80vh;
+  margin: 0 auto 6rem;
+}
+
+.description {
+  margin-top: 2rem;
 }

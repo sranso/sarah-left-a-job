@@ -30,6 +30,8 @@
 .celebrate {
   display: flex;
   width: 100%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
   justify-content: space-around;
 }
 

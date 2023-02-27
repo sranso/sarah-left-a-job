@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import Header from "./header.js";
-import RSVP from "./RSVP.js";
+import Celebrate from "./celebrate.js";
 
 export default function Home() {
   return (
@@ -21,7 +21,7 @@ export default function Home() {
           key="fonts-google-static"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap"
+          href="https://fonts.googleapis.com/css2?Noto+Serif+JP:wght@400;700&display=swap"
           rel="stylesheet"
           key="fonts-google-noto-serif"
         ></link>
@@ -33,10 +33,7 @@ export default function Home() {
         <div className={styles.hero}>
           <h1 className={styles.title}>Sarah got a job!</h1>
         </div>
-        <div className={styles.celebrate}>
-          <div>Come celebrate with her</div>
-          <RSVP />
-        </div>
+        <Celebrate />
       </main>
 
       <footer>

@@ -29,22 +29,14 @@
   transition: 1s ease;
 }
 
-.hero:hover{
+/* .hero:hover{
   -webkit-transform: skew(30deg, 20deg) scale3d(2.5, 1.2, 0.3) perspective(17px) rotate3d(1, 2, 3, 10deg);
   -ms-transform: skew(30deg, 20deg) scale3d(2.5, 1.2, 0.3) perspective(17px) rotate3d(1, 2, 3, 10deg);
   transform: skew(30deg, 20deg) scale3d(2.5, 1.2, 0.3) perspective(17px) rotate3d(1, 2, 3, 10deg);
   filter: blur(8px);
   -webkit-filter: blur(8px);
   transition: 5s ease;
-}
-
-.celebrate {
-  display: flex;
-  width: 100%;
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-  justify-content: space-around;
-}
+} */
 
 .title,
 .description {

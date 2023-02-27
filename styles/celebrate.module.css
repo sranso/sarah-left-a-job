@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  width: 100%;
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.celebrate {
+  font-size: 3.8rem;
+  max-width: 34vw;
+}
+
+.RSVP {
+  line-height: 1.5;
+}
+
+.RSVP a {
+  margin-top: 1rem;
+  padding: 2rem;
+  background-color: aqua;
+  display: block;
+  text-align: center;
+  transition: 1s ease;
+}
+
+.RSVP a:hover {
+  background-color: aquamarine;
+}

@@ -3,11 +3,7 @@
   margin: 3rem auto;
 }
 
-.dataContainer {
-  display: flex;
-  flex-wrap: wrap;
-}
-
 .dataset {
-  flex: 50%;
+  width: 80vw;
+  margin: 0 auto 6rem
 }

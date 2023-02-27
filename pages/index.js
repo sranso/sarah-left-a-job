@@ -1,6 +1,8 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import Header from "./header.js";
+import FAQs from "./faqs.js";
+import Data from "./data.js";
 import Celebrate from "./celebrate.js";
 
 export default function Home() {
@@ -34,6 +36,8 @@ export default function Home() {
           <h1 className={styles.title}>Sarah got a job!</h1>
         </div>
         <Celebrate />
+        <FAQs />
+        <Data />
       </main>
 
       <footer>
@@ -42,7 +46,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          More from her
+          More from Sarah
         </a>
       </footer>
     </div>

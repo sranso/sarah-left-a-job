@@ -1,10 +1,27 @@
 .header {
-    overflow: hidden;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    padding: 0 10px;
-  }
+  overflow: hidden;
+  position: fixed;
+  top: 6px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0 10px;
+  color: #4F518C;
+}
+
+.emoji {
+  flex: 4;
+}
+
+.links {
+  display: flex;
+  flex: 2;
+  text-align: right;
+  justify-content: flex-end;
+}
+
+.links a {
+  display: inline-block;
+  width: 5rem;
+}

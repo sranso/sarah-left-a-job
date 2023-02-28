@@ -25,7 +25,7 @@ export default function PeopleCriedTo() {
   return (
     <div className={styles.dataset}>
       <p>
-        <strong>People I've cried to the most</strong>
+        <strong>People she cried to the most</strong>
       </p>
       <Bar
         options={{

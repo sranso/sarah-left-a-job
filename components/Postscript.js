@@ -36,7 +36,7 @@ export default function Postscript() {
       </blockquote>
       So come to this party &mdash; on me, paid with sweet new cash &mdash; as I
       try to practice this sage wisdom.
-      <RSVP copy="See you there <3" />
+      <RSVP copy="See you there &#129303;" />
     </div>
   );
 }

@@ -8,7 +8,7 @@ const data = {
   labels: [
     "Paros, Greece",
     "Oaxaca, MX",
-    "Brooklyn, NC",
+    "Brooklyn, NY",
     "Desbarats, Canada",
     "Chapel Hill, NC",
     "Misc",

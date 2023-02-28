@@ -1,6 +1,6 @@
 .container {
   width: 80vw;
-  margin: 3rem auto 8rem;
+  margin: 3rem auto 9rem;
 }
 
 .dataset {
@@ -11,4 +11,15 @@
 
 .description {
   margin-top: 2rem;
+}
+
+@media (max-width: 600px) {
+  .container {
+    width: 95vw;
+    margin: 3rem .5rem 8rem;
+  }
+
+  .dataset {
+    max-width: none;
+  }
 }

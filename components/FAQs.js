@@ -3,7 +3,7 @@ import styles from "../styles/FAQs.module.css";
 export default function FAQs() {
   return (
     <div className={styles.container} id="faqs">
-      <h2>FAQs</h2>
+      <h3>FAQs</h3>
 
       <ul className={styles.list}>
         <li>

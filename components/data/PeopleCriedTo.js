@@ -14,7 +14,7 @@ const data = {
   labels: ["Kiron", "Kate", "Nan", "Strangers"],
   datasets: [
     {
-      label: "#",
+      label: "# of cries",
       data: [6, 5, 3, 2],
       backgroundColor: "rgba(255, 99, 132, 0.5)",
     },

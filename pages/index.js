@@ -5,6 +5,7 @@ import Hero from "../components/Hero.js";
 import FAQs from "../components/FAQs.js";
 import Data from "../components/Data.js";
 import Celebrate from "../components/Celebrate.js";
+import Postscript from "../components/Postscript.js";
 
 export default function Home() {
   return (
@@ -37,6 +38,7 @@ export default function Home() {
         <Celebrate />
         <FAQs />
         <Data />
+        <Postscript />
       </main>
 
       <footer>

@@ -16,6 +16,10 @@ h1, h2, h3, h4, h5 {
     Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+h3 {
+  font-size: 1.8rem;
+}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -49,10 +53,10 @@ button {
 }
 
 main {
-  flex: 1;
+  /* flex: 1;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: center; */
 }
 
 footer {

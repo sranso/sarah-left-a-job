@@ -10,6 +10,7 @@ https://sarah-got-a-job.vercel.app/
 - add fun wavy effect to image
 - add registry
 - make emojis fall when hovering on top left party (change that emoji?)
+
 - make video interviews with friends -- kate, kiron, nancy, seth, mike, robin, dabney, angelica, sarah s, nan, a scone
 
 - add data viz

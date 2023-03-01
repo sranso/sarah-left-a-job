@@ -11,11 +11,11 @@ import styles from "../../styles/Data.module.css";
 ChartJS.register(CategoryScale, LinearScale, BarElement, Tooltip);
 
 const data = {
-  labels: ["Kiron", "Kate", "Nan", "Strangers"],
+  labels: ["Kiron", "Kate", "Nan", "Strangers", "Kareem & Katie", "Alex"],
   datasets: [
     {
       label: "# of cries",
-      data: [6, 5, 3, 2],
+      data: [7, 5, 3, 2, 1, 2],
       backgroundColor: "rgba(255, 99, 132, 0.5)",
     },
   ],

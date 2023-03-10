@@ -7,21 +7,14 @@
   justify-content: space-between;
   align-items: baseline;
   padding: 0 10px;
-  color: #4F518C;
-}
-
-.emoji {
-  flex: 4;
+  color: #4f518c;
 }
 
 .links {
   display: flex;
-  flex: 2;
-  text-align: right;
-  justify-content: flex-end;
 }
 
 .links a {
   display: inline-block;
-  width: 5rem;
+  width: 4.8rem;
 }

@@ -11,9 +11,4 @@ https://sarah-got-a-job.vercel.app/
 - add registry
 - make emojis fall when hovering on top left party (change that emoji?) https://codepen.io/robertheiser/pen/NXrqXa
 
-- make video interviews with friends -- kate, kiron, nancy, seth, mike, robin, dabney, angelica, sarah s, nan, a scone
-
-- add data viz
-  - days silent
-  - scones eaten
 - point job.sarahransohoff.com to https://sarah-got-a-job.vercel.app/ ?

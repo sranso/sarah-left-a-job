@@ -1,8 +1,8 @@
-import styles from "../styles/FAQs.module.css";
+import styles from '../styles/FAQs.module.css';
 
 export default function FAQs() {
   return (
-    <div className={styles.container} id="faqs">
+    <div className={styles.container} id='faqs'>
       <h3>FAQs</h3>
 
       <ul className={styles.list}>
@@ -12,8 +12,8 @@ export default function FAQs() {
           </p>
           <p>
             If you're reading this, most likely she is your friend, previous (or
-            future!) co-worker, family member, or lover (past/present/future).
-            If not, wow tell me how you got here!
+            future!) co-worker, family member, or yoga teacher she is trying to
+            be friends with. If not, wow tell me how you got here!
           </p>
         </li>
 
@@ -24,10 +24,9 @@ export default function FAQs() {
           <p>
             Such a good question. A job is a thing we are required to do for
             money. Some things that do not include jobs are making art full-time
-            (as far as I have been able to discern), being gorgeous (unless you
-            are a model), or very funny (unless you are a comedian). For the
-            rest of us, we must have <i>marketable skills</i> for which someone
-            pays us.
+            (for moi, right now), being gorgeous (unless you are a model), or
+            very funny (unless you are a comedian). For the rest of us, we must
+            have <i>marketable skills</i> for which someone pays us.
           </p>
         </li>
 
@@ -36,7 +35,11 @@ export default function FAQs() {
             <strong>What is her new job?</strong>
           </p>
           <p>
-            Lol ok technically she doesn't know yet but she will have one soon.
+            She is going to be a software engineer at{' '}
+            <a target='_blank' href='https://www.rewiringamerica.org/'>
+              Rewiring America
+            </a>
+            !
           </p>
         </li>
 
@@ -47,7 +50,7 @@ export default function FAQs() {
             </strong>
           </p>
           <p>
-            See some stats in <a href="#data">the data section.</a>
+            See some stats in <a href='#data'>the data section.</a>
           </p>
         </li>
 
@@ -57,10 +60,10 @@ export default function FAQs() {
           </p>
           <p>
             Perseverance, a seven-day silent meditation retreat, free rent with
-            Kate and Kiron,{" "}
-            <a href="https://www.instagram.com/scone_heads/" target="_blank">
+            Kate and Kiron,{' '}
+            <a href='https://www.instagram.com/scone_heads/' target='_blank'>
               eating scones with friends,
-            </a>{" "}
+            </a>{' '}
             and knowing that she would eventually get to celebrate with people
             like you.
           </p>

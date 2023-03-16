@@ -4,19 +4,19 @@ import {
   LinearScale,
   BarElement,
   Tooltip,
-} from "chart.js";
-import { Bar } from "react-chartjs-2";
-import styles from "../../styles/Data.module.css";
+} from 'chart.js';
+import { Bar } from 'react-chartjs-2';
+import styles from '../../styles/Data.module.css';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Tooltip);
 
 const data = {
-  labels: ["Kiron", "Kate", "Nan", "Strangers", "Kareem & Katie", "Alex"],
+  labels: ['Kiron', 'Kate', 'Nan', 'Strangers', 'Alex', 'Kareem & Katie'],
   datasets: [
     {
-      label: "# of cries",
-      data: [7, 5, 3, 2, 1, 2],
-      backgroundColor: "rgba(255, 99, 132, 0.5)",
+      label: '# of cries',
+      data: [7, 5, 3, 2, 2, 1],
+      backgroundColor: 'rgba(255, 99, 132, 0.5)',
     },
   ],
 };
@@ -25,7 +25,7 @@ export default function PeopleCriedTo() {
   return (
     <div className={styles.dataset}>
       <p>
-        <strong>People she cried to the most</strong>
+        <strong>People she cried to the most since starting job search</strong>
       </p>
       <Bar
         options={{

@@ -11,9 +11,9 @@ export default function Celebrate() {
           <br />
           What: A party to celebrate Sarah's new job.
           <br />
-          When: TBD, but sometime soon.
+          When: 5:30PM April 29, 2023
           <br />
-          Where: Kate and Kiron's house (have to ask them first).
+          Where: 210 Eckford St, 3L Brooklyn NY (my new apartment!!).
           <br />
         </p>
         <RSVP copy="RSVP" />

@@ -1,13 +1,13 @@
-import styles from "../styles/Postscript.module.css";
-import RSVP from "./RSVP.js";
+import styles from '../styles/Postscript.module.css';
+import RSVP from './RSVP.js';
 
 export default function Postscript() {
   return (
-    <div className={styles.container} id="postscript">
+    <div className={styles.container} id='postscript'>
       <div className={styles.title}>In sum...</div>
       <blockquote
         className={styles.quote}
-        cite="https://freakonomics.com/podcast/turning-work-into-play/"
+        cite='https://freakonomics.com/podcast/turning-work-into-play/'
       >
         <p>
           LEVITT: Okay What should people do with money?
@@ -22,21 +22,19 @@ export default function Postscript() {
           earn even more of it. They buy material goods. Which tend to stop
           bringing you happiness fairly quickly after you buy them, which is why
           you have to keep upgrading them. If somebody said, “Give me your
-          advice,” I’d say, “Look,{" "}
+          advice,” I’d say, “Look,{' '}
           <strong>
             invest in your social relationships. They’re a better predictor of
             your happiness than your wealth, than your health, than your age,
             than your gender, than almost anything else.”
           </strong>
         </p>
-        &mdash;{" "}
-        <a href="https://freakonomics.com/podcast/turning-work-into-play/">
+        &mdash;{' '}
+        <a href='https://freakonomics.com/podcast/turning-work-into-play/'>
           People I Mostly Admire
         </a>
       </blockquote>
-      So come to this party &mdash; on me, paid with sweet new cash &mdash; as I
-      try to practice this sage wisdom.
-      <RSVP copy="See you there &#129303;" />
+      <RSVP copy='Friends are the best &#129303;' />
     </div>
   );
 }

@@ -35,7 +35,7 @@ export default function FAQs() {
             <strong>What is her new job?</strong>
           </p>
           <p>
-            She is going to be a software engineer at{' '}
+            She is a Senior Software Engineer at{' '}
             <a target='_blank' href='https://www.rewiringamerica.org/'>
               Rewiring America
             </a>

@@ -24,8 +24,9 @@ export default function FAQs() {
             <strong>What is a job?</strong>
           </p>
           <p>
-            Who knows anymore. It's a thing we do to find community to also make
-            money while we work on finding purpose in more meaningful ways.
+            Who knows anymore. I think it's a thing we do for predictable
+            community and money while we work to find purpose in more meaningful
+            ways.
           </p>
         </li>
 

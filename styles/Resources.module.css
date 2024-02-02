@@ -8,6 +8,10 @@
   margin-bottom: 2rem;
 }
 
+.container a {
+  text-decoration: underline;
+}
+
 .ul {
   margin-left: 2rem;
 }
@@ -15,7 +19,6 @@
 .ul li {
   margin-bottom: 0.8rem;
   list-style: circle;
-  text-decoration: underline;
 }
 
 @media (max-width: 600px) {

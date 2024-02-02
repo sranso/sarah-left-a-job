@@ -9,14 +9,15 @@ import { Bar } from 'react-chartjs-2';
 import styles from '../../styles/Data.module.css';
 
 ChartJS.register(CategoryScale, LinearScale, BarElement, Tooltip);
+ChartJS.defaults.color = '#000';
 
 const data = {
-  labels: ['Kiron', 'Kate', 'Nan', 'Strangers', 'Kareem & Katie', 'LP'],
+  labels: ['Herself', 'Therapist', 'Mom', 'Xena', 'Miso', 'Nan'],
   datasets: [
     {
       label: '# of cries',
-      data: [7, 5, 3, 2, 1, 1],
-      backgroundColor: 'rgba(255, 99, 132, 0.5)',
+      data: [27, 15, 16, 4, 4, 3],
+      backgroundColor: 'rgba(255, 234, 0, 0.6)',
     },
   ],
 };
@@ -25,17 +26,19 @@ export default function PeopleCriedTo() {
   return (
     <div className={styles.dataset}>
       <p>
-        <strong>People she cried to the most since starting job search</strong>
+        <strong>People she cried to the most since starting her job</strong>
       </p>
       <Bar
         options={{
           maintainAspectRatio: false,
           responsive: true,
+          color: '#000',
         }}
         data={data}
+        label
       />
       <p className={styles.description}>
-        <i>Thank you, Kiron!</i>
+        <i>Thank you, me!</i>
       </p>
     </div>
   );

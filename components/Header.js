@@ -3,8 +3,8 @@ import styles from '../styles/Header.module.css';
 export default function Header() {
   return (
     <div className={styles.header}>
-      <div className={styles.emoji}>
-        <a href='#celebrate'>&#127881;</a>
+      <div>
+        <a href='#celebrate'>&#128520;</a>
       </div>
       <div className={styles.links}>
         <a href='#faqs'>FAQs</a>

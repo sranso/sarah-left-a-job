@@ -11,9 +11,11 @@ export default function FAQs() {
             <strong>Who is Sarah?</strong>
           </p>
           <p>
-            If you're reading this, most likely she is your friend, previous (or
-            future!) co-worker, family member, or yoga teacher she is trying to
-            be friends with. If not, wow tell me how you got here!
+            A brilliant, stupid, perfect, irreversibly flawed woman who – by the
+            time of this party – will have left{' '}
+            <a href='https://sarah-got-a-job.vercel.app/' target='_blank'>
+              the job she worked so hard to get.
+            </a>
           </p>
         </li>
 
@@ -22,51 +24,38 @@ export default function FAQs() {
             <strong>What is a job?</strong>
           </p>
           <p>
-            Such a good question. A job is a thing we are required to do for
-            money. Some things that do not include jobs are making art full-time
-            (for moi, right now), being gorgeous (unless you are a model), or
-            very funny (unless you are a comedian). For the rest of us, we must
-            have <i>marketable skills</i> for which someone pays us.
+            Who knows anymore. It's a thing we do to find community to also make
+            money while we work on finding purpose in more meaningful ways.
           </p>
         </li>
 
         <li>
           <p className={styles.q}>
-            <strong>What is her new job?</strong>
+            <strong>So... what is she gonna do?</strong>
           </p>
           <p>
-            She is a Senior Software Engineer at{' '}
-            <a target='_blank' href='https://www.rewiringamerica.org/'>
-              Rewiring America
+            She is going to work{' '}
+            <a target='_blank' href='https://www.clay.com/'>
+              somewhere else.
             </a>
-            !
           </p>
         </li>
 
         <li>
           <p className={styles.q}>
-            <strong>
-              How many rejections did she get before she got an offer?
-            </strong>
+            <strong>Is she ok?</strong>
           </p>
           <p>
-            See some stats in <a href='#data'>the data section.</a>
+            Let's leave the hard-pressing questions for the Terri Gross-es of
+            the world, hmkay?
           </p>
         </li>
 
         <li>
           <p className={styles.q}>
-            <strong>How did she keep going, despite it all?</strong>
+            <strong>Alright... sounds fun I guess?</strong>
           </p>
-          <p>
-            Perseverance, a seven-day silent meditation retreat, free rent with
-            Kate and Kiron,{' '}
-            <a href='https://www.instagram.com/scone_heads/' target='_blank'>
-              eating scones with friends,
-            </a>{' '}
-            and knowing that she would eventually get to celebrate with people
-            like you.
-          </p>
+          <p>You bet your fiery ass it is.</p>
         </li>
       </ul>
     </div>

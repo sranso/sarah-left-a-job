@@ -1,22 +1,23 @@
-import styles from "../styles/Celebrate.module.css";
-import RSVP from "./RSVP.js";
+import styles from '../styles/Celebrate.module.css';
+import RSVP from './RSVP.js';
 
 export default function Celebrate() {
   return (
-    <div className={styles.container} id="celebrate">
-      <div className={styles.CTA}>Come celebrate with her</div>
+    <div className={styles.container} id='celebrate'>
+      <div className={styles.CTA}>Come swim in the lake of fire</div>
       <div className={styles.detail}>
         <p>
           <strong>Details</strong>
           <br />
-          What: A party to celebrate Sarah's new job.
+          What: A debaucherous reflection on giving up what we work so hard to
+          get
           <br />
-          When: 5:30PM April 29, 2023
+          When: Feb 17, 2024
           <br />
-          Where: 210 Eckford St, 3L Brooklyn NY (my new apartment!!).
+          Where: 210 Eckford St, 3r Brooklyn NY
           <br />
         </p>
-        <RSVP copy="RSVP" />
+        <RSVP copy='RSVP' />
       </div>
     </div>
   );

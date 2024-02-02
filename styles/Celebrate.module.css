@@ -12,7 +12,7 @@
 
 .CTA {
   font-size: 3.8rem;
-  max-width: 34vw;
+  max-width: 44vw;
 }
 
 .details {
@@ -23,7 +23,7 @@
   .container {
     flex-direction: column;
     width: 95vw;
-    margin: 1rem .5rem 3rem;
+    margin: 1rem 0.5rem 3rem;
   }
 
   .CTA {

@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Sarah got a job</title>
+        <title>Sarah left a job</title>
         <link rel='icon' href='/favicon.png' />
         <link
           rel='preconnect'

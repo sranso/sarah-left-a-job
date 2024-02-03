@@ -11,8 +11,9 @@
 }
 
 .CTA {
-  font-size: 3.8rem;
+  font-size: 3.4rem;
   max-width: 44vw;
+  margin-right: 2rem;
 }
 
 .details {
@@ -29,6 +30,6 @@
   .CTA {
     max-width: none;
     margin-bottom: 1.5rem;
-    font-size: 3rem;
+    font-size: 2.3rem;
   }
 }

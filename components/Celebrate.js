@@ -12,7 +12,7 @@ export default function Celebrate() {
           What: A debaucherous reflection on giving up what we work so hard to
           get
           <br />
-          When: Feb 17, 2024
+          When: Feb 24??, 2024
           <br />
           Where: 210 Eckford St, 3r Brooklyn NY
           <br />

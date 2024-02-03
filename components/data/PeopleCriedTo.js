@@ -12,11 +12,11 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, Tooltip);
 ChartJS.defaults.color = '#000';
 
 const data = {
-  labels: ['Herself', 'Therapist', 'Mom', 'Xena', 'Miso', 'Nan'],
+  labels: ['Herself', 'Mom', 'Therapist', 'Xena', 'Miso', 'Nan'],
   datasets: [
     {
       label: '# of cries',
-      data: [27, 15, 16, 4, 4, 3],
+      data: [27, 16, 11, 5, 4, 3],
       backgroundColor: 'rgba(255, 234, 0, 0.6)',
     },
   ],

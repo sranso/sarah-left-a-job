@@ -44,8 +44,8 @@ export default function Resources() {
             money is best spent on our social relationships
           </a>{' '}
           &#10084;&#65039;&#8205;&#128293; &#10084;&#65039;&#8205;&#128293;
-          &#10084;&#65039;&#8205;&#128293; and also we can't spend it if we're
-          dead &#128139; &#128139; &#128139;
+          &#10084;&#65039;&#8205;&#128293; and we can't spend it when we're dead
+          &#128139; &#128139; &#128139;
         </li>
       </ul>
     </div>

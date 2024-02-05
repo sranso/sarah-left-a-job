@@ -18,8 +18,9 @@ export default function Resources() {
           doodle
         </li>
         <li>In that vein, planning craft and art-making hangs</li>
-        <li>$plurging on an art studio</li>
+        <li>Day drinking (let's start earlier!)</li>
         <li>Sleepovers</li>
+        <li>$plurging on an art studio</li>
         <li>
           Spas (she likes{' '}
           <a href='https://maps.app.goo.gl/9XA9A8gFBRzxdsdz6' target='_blank'>

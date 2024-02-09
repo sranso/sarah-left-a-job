@@ -5,7 +5,7 @@ export default function RSVP({ copy }) {
     <p>
       <a
         className={styles.rsvp}
-        href="https://partiful.com/e/nnwczbP8zPAT6BcsL7e6"
+        href="https://partiful.com/e/2pvFHGUaX7DMhC0o2S7t"
         target="_blank"
       >
         {copy}
